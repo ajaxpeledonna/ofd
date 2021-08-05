@@ -164,6 +164,9 @@ body {
   border-radius: 2px;
   border: none;
   color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .report__btn--success {
@@ -403,6 +406,9 @@ body {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
+  }
+  .report__btn {
+    font-size: 0.9rem;
   }
   .report__formed-btn-area {
     -webkit-box-pack: center;
