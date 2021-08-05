@@ -31,7 +31,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   margin-top: 2.285rem;
-  max-width: 896px;
+  max-width: 64rem;
   position: relative;
 }
 
