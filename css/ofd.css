@@ -336,9 +336,7 @@ body {
     width: 14px;
     height: 14px;
   }
-  .report__status {
-    font-size: 1rem;
-  }
+
 }
 @media screen and (max-width: 767px) {
   .main-wrapper {
