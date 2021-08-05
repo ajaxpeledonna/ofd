@@ -309,18 +309,6 @@ body {
   color: #D12E34;
 }
 
-@media screen and (min-width: 1400px) {
-  html {
-    font-size: 18px;
-  }
-  .report__btn {
-    font-size: 16px;
-  }
-  .report__table {
-    font-size: 0.9rem;
-  }
-}
-
 @media (min-width: 768px) and (max-width: 991px) {
   html {
     font-size: 12px;
