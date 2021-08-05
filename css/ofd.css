@@ -209,7 +209,7 @@ body {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: flex-end;
-  max-width: 896px;
+  max-width: 64rem;
   margin-top: 2.285rem;
 }
 
