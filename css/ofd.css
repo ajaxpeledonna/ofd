@@ -336,7 +336,7 @@ body {
     width: 14px;
     height: 14px;
   }
-  &__status {
+  .report__status {
     font-size: 1rem;
   }
 
